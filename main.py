@@ -78,7 +78,6 @@ while run:
     #update fighters
     fighter_1.update()
     fighter_2.update()
-
     #draw fighters
     fighter_1.draw(screen)
     fighter_2.draw(screen)
